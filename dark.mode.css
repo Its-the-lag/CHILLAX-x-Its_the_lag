@@ -156,7 +156,7 @@
   display: none !important;
 }
 .theme-dark .wordmark-2u86JB::before {
-  content: "‏‏‎ c h i l l a x";
+  content: "‏‏‎ I t s  T h e  L a g g";
   font-size: 12px;
   font-family: "Poiret one" !important;
   position: fixed;
@@ -171,7 +171,7 @@
   transition: 0.5s ease-in-out;
 }
 .wordmark-2u86JB:hover:before {
-  content: "‏‏‎ c h i l l a x";
+  content: "‏‏‎ I t s  T h e  L a g g";
   letter-spacing: 2px;
 }
 /* button design*/
