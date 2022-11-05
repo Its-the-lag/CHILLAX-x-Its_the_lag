@@ -5,9 +5,9 @@
 
 ### BetterDiscord
 
-Go [here](https://betterdiscord.app/theme/LilyPichu) and save the file into your theme folder
+Go [here] and save the file into your theme folder
 
 ## 🖌️ Customization
 Go into your theme folder and open :
 
-`lilypichu.theme.css` for BetterDiscord
+`Chillax-x-its_the_lag.theme.css` for BetterDiscord
